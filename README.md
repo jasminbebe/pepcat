@@ -1,6 +1,6 @@
 # CatUserbot / PepeCat
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Djploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 A simple Telegram userbot based on Telethon .
